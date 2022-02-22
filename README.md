@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MichaelAladejobi
+- 👀 I’m interested in Data Science, AI/ML, and Software engineering
+- 🌱 I’m currently learning C language, Python, SQL, and Advance Excel
+- 💞️ I’m looking to collaborate on Real world tech problems in relation to my interests
+- 📫 How to reach me: https://www.facebook.com/Aladejobi.Michael
