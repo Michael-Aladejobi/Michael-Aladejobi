@@ -2,4 +2,4 @@
 - 👀 I’m interested in Data Science, AI/ML, and Software engineering
 - 🌱 I’m currently learning C language, Python, SQL, and Advance Excel
 - 💞️ I’m a CS student looking for summer internship.
-- 📫 How to reach me: https://www.facebook.com/Aladejobi.Michael
+- 📫 How to reach me: +234 81 8101 0186
