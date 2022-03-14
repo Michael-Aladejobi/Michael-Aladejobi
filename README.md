@@ -2,4 +2,4 @@
 - 👀 I’m interested in Data Science and AI/ML.
 - 🌱 I’m currently learning C language, Python, SQL, and Advance Excel
 - 💞️ I’m a CS student looking for summer internship.
-- 📫 How to reach me: +234 81 8101 0186
+- 📫 How to reach me: mikkystechs@gmail.com
