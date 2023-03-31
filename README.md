@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MichaelAladejobi
-- 👀 I’m interested in Data Science and AI/ML.
-- 🌱 I’m currently learning C language, Python, SQL, and Advance Excel
+- 👀 I’m interested in ... 
+- 🌱 I’m currently learning Java, Html, CSS, C language, Python, SQL, and Advance Excel
 - 💞️ I’m a CS student looking for summer internship.
 - 📫 How to reach me: mikkystechs@gmail.com
