@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @MichaelAladejobi
+- 👋 Hi, I’m MichaelAladejobi
 - 👀 I’m interested in ... 
-- 🌱 I’m currently learning Java, Html, CSS, C language, Python, SQL, and Advance Excel
+- 🌱 I’m currently learning Java, JavwScript, Html, CSS, Tailwind CSS, React, C language, Python, et. all...
 - 💞️ I’m a CS student looking for summer internship.
 - 📫 How to reach me: mikkystechs@gmail.com
